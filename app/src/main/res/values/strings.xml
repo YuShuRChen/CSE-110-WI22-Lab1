@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="welcome_message">Welcome to</string>
+    <string name="subject_course">CSE 110</string>
+    <string name="course_title">Software Engineering</string>
+    <string name="term">Winter 2020</string>
+    <string name="student_name">Yu-Shu Chen</string>
+    <string name="show_student_name">SHOW MY NAME</string>
+    <string name="hide_student_name">HIDE MY NAME</string>
+</resources>
